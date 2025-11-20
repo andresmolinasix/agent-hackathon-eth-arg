@@ -39,6 +39,8 @@ venv/
 
 # Markdown files
 *.md
+!README.md
+!structured-output.md 
 
 # Git
 .git/
